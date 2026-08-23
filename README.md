@@ -28,6 +28,14 @@ A passionate Full-Stack Developer with a strong analytical mindset and high self
 
 ---
 
+### 🎓 Professional Training & AI Certification
+
+**AI Developer Course – Malka Bruck**
+* Intensive practical course focusing on building real-world AI applications and architecture.
+* Hands-on experience with **Prompt Engineering**, **RAG Architecture**, **LangChain**, **Embeddings**, and **AI Agents**.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **Languages & Frameworks:**
@@ -38,6 +46,12 @@ A passionate Full-Stack Developer with a strong analytical mindset and high self
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**AI & Emerging Tech:**
+![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG-Architecture-0052CC?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8E44AD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector%20Search-16A085?style=for-the-badge)
 
 **Databases & Tools:**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
